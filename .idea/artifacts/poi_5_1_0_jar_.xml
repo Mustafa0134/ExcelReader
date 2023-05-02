@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="poi-5_1_0_jar_">
+    <output-path>$PROJECT_DIR$/out/artifacts/poi_5_1_0_jar_</output-path>
+    <root id="root">
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-bin-5.1.0-20211024/poi-bin-5.1.0/poi-5.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
